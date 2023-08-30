@@ -20,7 +20,7 @@ function convertPokemonToLi(pokemon){
             <img src="${pokemon.photo}" alt="${pokemon.name}">
         </div>
         <div class="pokeballBg">
-            <img src="/assets/pokeball.png">
+            <img src="assets/pokeball.png">
         </div>
     </li>
 `
